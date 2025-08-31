@@ -1,0 +1,7 @@
+[theme]
+base = "light"               
+primaryColor = "#E0414A"
+backgroundColor = "#FFF8E4"
+secondaryBackgroundColor = "#ffffffff"
+textColor = "#444343"
+font = "lexend"
