@@ -77,6 +77,7 @@ docker build -t brand-api .
 ### Run
 ```powershell
 # .env should contain: OPENAI_API_KEY=sk-...
+mkdir data  # once
 docker run --rm -p 8000:8000 `
   --env-file .env `
   -v "$PWD\data:/app/data" `
