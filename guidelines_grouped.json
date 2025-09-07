@@ -1,0 +1,125 @@
+{
+  "Font style": [
+    {
+      "guideline": "Use Lexend as the primary typeface",
+      "evidence": "Primary Lexend",
+      "pages": [
+        9
+      ]
+    },
+    {
+      "guideline": "Use Inter as the secondary typeface",
+      "evidence": "Secondary Inter",
+      "pages": [
+        9
+      ]
+    }
+  ],
+  "Logo safe zone": [
+    {
+      "guideline": "Maintain a minimum clear space of 30px around the logo",
+      "evidence": "The minimum required clear space is defined by measurement “X”. X is 30px.",
+      "pages": [
+        6
+      ]
+    },
+    {
+      "guideline": "Do not place any graphic or typographic elements within the logo safe zone",
+      "evidence": "The Safe Zone should not contain any graphic or typhographic elements other than the logotype itself.",
+      "pages": [
+        6
+      ]
+    }
+  ],
+  "Logo colours": [
+    {
+      "guideline": "Do not shuffle around the icon colors",
+      "evidence": "Do not shuffle around the Icon colors",
+      "pages": [
+        5
+      ]
+    },
+    {
+      "guideline": "Do not use different colors for the logo",
+      "evidence": "Do not use different colors",
+      "pages": [
+        5
+      ]
+    }
+  ],
+  "Colour palette (overall image)": [
+    {
+      "guideline": "Use a palette of fun and light colors to reflect the brand’s dynamic",
+      "evidence": "We have intentionally chosen a palette of fun and light colors to reflect our brand’s dynamic.",
+      "pages": [
+        7
+      ]
+    },
+    {
+      "guideline": "Include primary brand colors: French Sky Blue (#85A0FE), Lavender (#AA82FF), Tulip (#FE839C), Bright Sun (#FFD14C), Dark Indigo (#380F57)",
+      "evidence": "Primary colors … French Sky Blue #85A0FE … Lavender #AA82FF …",
+      "pages": [
+        7
+      ]
+    },
+    {
+      "guideline": "Use extended color palette tints at 120%, Base, 80%, 60%, 40%, 20%, 10%",
+      "evidence": "120% Base 80% 60% 40% 20% 10%",
+      "pages": [
+        7,
+        8
+      ]
+    }
+  ],
+  "other": [
+    {
+      "guideline": "Do not crop the logo",
+      "evidence": "Do not crop the Logo",
+      "pages": [
+        5
+      ]
+    },
+    {
+      "guideline": "Do not distort the logo",
+      "evidence": "Do not disort the Logo",
+      "pages": [
+        5
+      ]
+    },
+    {
+      "guideline": "Do not use drop shadows or any other effects on the logo",
+      "evidence": "Do not use drop shadows or any other effects",
+      "pages": [
+        5
+      ]
+    },
+    {
+      "guideline": "Do not outline the icon",
+      "evidence": "Do not outline the Icon",
+      "pages": [
+        5
+      ]
+    },
+    {
+      "guideline": "Do not rotate the icon",
+      "evidence": "Do not rotate Icon",
+      "pages": [
+        5
+      ]
+    },
+    {
+      "guideline": "Do not change logo transparency",
+      "evidence": "Do not change Logo transparency",
+      "pages": [
+        5
+      ]
+    },
+    {
+      "guideline": "Do not change the size or position of the icon and typeface",
+      "evidence": "Do not change the size or position of the Icon and Typeface",
+      "pages": [
+        5
+      ]
+    }
+  ]
+}

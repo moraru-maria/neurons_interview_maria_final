@@ -1,0 +1,117 @@
+{
+  "Font style": [
+    {
+      "guideline": "Use Lexend as the primary brand typeface.",
+      "evidence": "Primary Lexend",
+      "pages": []
+    },
+    {
+      "guideline": "Use Inter as the secondary brand typeface.",
+      "evidence": "Secondary Inter",
+      "pages": []
+    }
+  ],
+  "Logo safe zone": [
+    {
+      "guideline": "Maintain a minimum clear space around the logo equal to X (30px).",
+      "evidence": "The minimum required clear space is defined by measurement “X”. X is 30px.",
+      "pages": []
+    },
+    {
+      "guideline": "Do not place any graphic or typographic elements within the logo safe zone.",
+      "evidence": "The Safe Zone should not contain any graphic or typographic elements other than the logotype itself.",
+      "pages": []
+    }
+  ],
+  "Logo colours": [
+    {
+      "guideline": "Do not shuffle around the Icon colors.",
+      "evidence": "Do not shuffle around the Icon colors",
+      "pages": []
+    },
+    {
+      "guideline": "Do not use different colors for the logo.",
+      "evidence": "Do not use different colors",
+      "pages": []
+    }
+  ],
+  "Colour palette (overall image)": [
+    {
+      "guideline": "Use French Sky Blue (#85A0FE) to symbolize trust, clarity, and calm.",
+      "evidence": "French Sky Blue #85A0FE Symbolizing trust, clarity, and calm, this color embodies our commitment to transparency and openness.",
+      "pages": []
+    },
+    {
+      "guideline": "Use Lavender (#AA82FF) to represent creativity, innovation, and balance.",
+      "evidence": "Lavender #AA82FF A soft, calming hue that represents creativity, innovation, and a sense of balance",
+      "pages": []
+    },
+    {
+      "guideline": "Use Tulip (#FE839C) to reflect passion, enthusiasm, and a forward-thinking attitude.",
+      "evidence": "tulip #FE839C Energetic and vibrant, this bold red shade reflects passion, enthusiasm, and a forward-thinking attitude.",
+      "pages": []
+    },
+    {
+      "guideline": "Use Bright Sun (#FFD14C) to convey positivity, optimism, and the spark of new ideas.",
+      "evidence": "Bright Sun #FFD14C This warm yellow color conveys positivity, optimism, and the spark of new ideas.",
+      "pages": []
+    },
+    {
+      "guideline": "Use Dark Indigo (#380F57) to signify stability, professionalism, and depth.",
+      "evidence": "Dark Indigo #380F57 A deep and thoughtful shade that signifies stability, professionalism, and depth.",
+      "pages": []
+    },
+    {
+      "guideline": "Use the primary brand colors to represent the essence of the brand.",
+      "evidence": "Our primary brand colors are carefully chosen to represent the essence of our brand.",
+      "pages": []
+    },
+    {
+      "guideline": "Apply a palette of fun and light colors to reflect the brand’s dynamic and invite playfulness and creativity.",
+      "evidence": "We have intentionally chosen a palette of fun and light colors to reflect our brand’s dynamic. These shades invite a sense of playfulness and creativity, making our visual identity fresh and exciting.",
+      "pages": []
+    }
+  ],
+  "other": [
+    {
+      "guideline": "Do not crop the Logo.",
+      "evidence": "Do not crop the Logo",
+      "pages": []
+    },
+    {
+      "guideline": "Do not distort the Logo.",
+      "evidence": "Do not disort the Logo",
+      "pages": []
+    },
+    {
+      "guideline": "Do not use drop shadows or any other effects on the logo.",
+      "evidence": "Do not use drop shadows or any other effects",
+      "pages": []
+    },
+    {
+      "guideline": "Do not use any other font for the logo Typeface.",
+      "evidence": "Do not use any other font for the Typeface",
+      "pages": []
+    },
+    {
+      "guideline": "Do not outline the Icon.",
+      "evidence": "Do not outline the Icon",
+      "pages": []
+    },
+    {
+      "guideline": "Do not rotate the Icon.",
+      "evidence": "Do not rotate Icon",
+      "pages": []
+    },
+    {
+      "guideline": "Do not change Logo transparency.",
+      "evidence": "Do not change Logo transparency",
+      "pages": []
+    },
+    {
+      "guideline": "Do not change the size or position of the Icon and Typeface.",
+      "evidence": "Do not change the size or position of the Icon and Typeface",
+      "pages": []
+    }
+  ]
+}

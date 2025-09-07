@@ -1,0 +1,38 @@
+{
+  "Font style": [
+    {
+      "guideline": "Use Lexend as the primary typeface.",
+      "respected": "no"
+    },
+    {
+      "guideline": "Use Inter as the secondary typeface.",
+      "respected": "no"
+    }
+  ],
+  "Logo safe zone": [
+    {
+      "guideline": "Maintain a minimum clear space of X around the logo, where X equals 30px.",
+      "respected": "no"
+    },
+    {
+      "guideline": "Do not place any graphic or typographic elements within the logo's safe zone.",
+      "respected": "no"
+    }
+  ],
+  "Logo colours": [
+    {
+      "guideline": "Do not shuffle the icon colors.",
+      "respected": "yes"
+    },
+    {
+      "guideline": "Do not use different colors for the logo.",
+      "respected": "yes"
+    }
+  ],
+  "Colour palette (overall image)": [
+    {
+      "guideline": "Use a fun and light color palette to reflect the brand’s dynamic, inviting playfulness and creativity.",
+      "respected": "yes"
+    }
+  ]
+}

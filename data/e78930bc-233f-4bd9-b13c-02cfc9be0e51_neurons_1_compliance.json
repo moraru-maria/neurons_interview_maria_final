@@ -1,0 +1,46 @@
+{
+  "Font style": [
+    {
+      "guideline": "Use Lexend as the primary typeface",
+      "respected": "no"
+    },
+    {
+      "guideline": "Use Inter as the secondary typeface",
+      "respected": "no"
+    }
+  ],
+  "Logo safe zone": [
+    {
+      "guideline": "Maintain a minimum clear space of 30px around the logo",
+      "respected": "no"
+    },
+    {
+      "guideline": "Do not place any graphic or typographic elements within the logo safe zone",
+      "respected": "no"
+    }
+  ],
+  "Logo colours": [
+    {
+      "guideline": "Do not shuffle around the icon colors",
+      "respected": "yes"
+    },
+    {
+      "guideline": "Do not use different colors for the logo",
+      "respected": "no"
+    }
+  ],
+  "Colour palette (overall image)": [
+    {
+      "guideline": "Use a palette of fun and light colors to reflect the brand’s dynamic",
+      "respected": "yes"
+    },
+    {
+      "guideline": "Include primary brand colors: French Sky Blue (#85A0FE), Lavender (#AA82FF), Tulip (#FE839C), Bright Sun (#FFD14C), Dark Indigo (#380F57)",
+      "respected": "no"
+    },
+    {
+      "guideline": "Use extended color palette tints at 120%, Base, 80%, 60%, 40%, 20%, 10%",
+      "respected": "no"
+    }
+  ]
+}

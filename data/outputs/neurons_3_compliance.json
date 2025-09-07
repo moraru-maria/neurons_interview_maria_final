@@ -1,0 +1,62 @@
+{
+  "Font style": [
+    {
+      "guideline": "Use Lexend as the primary brand typeface.",
+      "respected": "no"
+    },
+    {
+      "guideline": "Use Inter as the secondary brand typeface.",
+      "respected": "no"
+    }
+  ],
+  "Logo safe zone": [
+    {
+      "guideline": "Maintain a minimum clear space around the logo equal to X (30px).",
+      "respected": "no"
+    },
+    {
+      "guideline": "Do not place any graphic or typographic elements within the logo safe zone.",
+      "respected": "no"
+    }
+  ],
+  "Logo colours": [
+    {
+      "guideline": "Do not shuffle around the Icon colors.",
+      "respected": "no"
+    },
+    {
+      "guideline": "Do not use different colors for the logo.",
+      "respected": "no"
+    }
+  ],
+  "Colour palette (overall image)": [
+    {
+      "guideline": "Use French Sky Blue (#85A0FE) to symbolize trust, clarity, and calm.",
+      "respected": "no"
+    },
+    {
+      "guideline": "Use Lavender (#AA82FF) to represent creativity, innovation, and balance.",
+      "respected": "no"
+    },
+    {
+      "guideline": "Use Tulip (#FE839C) to reflect passion, enthusiasm, and a forward-thinking attitude.",
+      "respected": "yes"
+    },
+    {
+      "guideline": "Use Bright Sun (#FFD14C) to convey positivity, optimism, and the spark of new ideas.",
+      "respected": "no"
+    },
+    {
+      "guideline": "Use Dark Indigo (#380F57) to signify stability, professionalism, and depth.",
+      "respected": "no"
+    },
+    {
+      "guideline": "Use the primary brand colors to represent the essence of the brand.",
+      "respected": "no"
+    },
+    {
+      "guideline": "Apply a palette of fun and light colors to reflect the brand’s dynamic and invite playfulness and creativity.",
+      "respected": "yes"
+    }
+  ]
+}

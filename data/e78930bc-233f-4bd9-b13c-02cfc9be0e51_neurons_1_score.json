@@ -1,0 +1,27 @@
+{
+  "per_category": {
+    "Font style": {
+      "yes": 0,
+      "total": 2,
+      "score": 0.0
+    },
+    "Logo safe zone": {
+      "yes": 0,
+      "total": 2,
+      "score": 0.0
+    },
+    "Logo colours": {
+      "yes": 1,
+      "total": 2,
+      "score": 0.5
+    },
+    "Colour palette (overall image)": {
+      "yes": 1,
+      "total": 3,
+      "score": 0.333
+    }
+  },
+  "total_score": 0.833,
+  "max_total": 4,
+  "normalized_0_100": 20.8
+}
